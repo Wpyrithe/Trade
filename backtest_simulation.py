@@ -7,6 +7,8 @@ from scipy import stats
 import datetime
 import random
 
+
+
 # === PARAMETRES ===
 TSEQ = 20  # taille de la fenetre d'analyse
 HOLD_DAYS = 2  # temps de conservation des actions
